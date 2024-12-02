@@ -1,0 +1,7 @@
+initialize,7
+insert,9,GCTCTXVYWM,1
+insert,48,PSLPNKGDNE,1
+insert,7,AGDYRUVSOA,0
+insert,16,BKOUXTAHUE,3
+delete,16
+dump

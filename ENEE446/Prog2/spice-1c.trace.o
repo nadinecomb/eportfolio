@@ -1,0 +1,17 @@
+Cache Settings:
+	Size: 	32768
+	Associativity: 	1
+	Block size: 	16
+processed 100000 references
+processed 200000 references
+*** CACHE STATISTICS ***
+  CORE 0
+  accesses:  217237
+  misses:    1567
+  miss rate: 0.007213 (0.992787)
+  replace:   520
+
+  TRAFFIC
+  demand fetch (words): 6268
+  broadcasts:           0
+  copies back (words):  3628
